@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Test\ for\ 11.14\ and\ 11.15.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=Student(java.lang.String)
+comment1.text=\n\ Creates\ new\ student\ objects.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Overrides\ toString\ and\ returns\ student\ names\ for\ printing.\ \n
+comment3.params=
+comment3.target=void\ newStudent()
+comment3.text=\n\ Creates\ a\ new\ student\ and\ prints\ hashcode\ to\ the\ terminal.\ \n
+comment4.params=
+comment4.target=void\ studentList()
+comment4.text=\n\ Prints\ a\ list\ of\ current\ students\ to\ the\ terminal\ from\ an\ array\ list.\ \n
+numComments=5
